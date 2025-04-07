@@ -1,0 +1,22 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SignInForm3",
+            "request": "launch",
+            "mainClass": "SignInForm3.SignInForm3",
+            "projectName": "SignInForm3_c5c28519"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "vmArgs": "--module-path \"C:\\Users\\Administrator\\Desktop\\MyApp\\lib\"--add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
